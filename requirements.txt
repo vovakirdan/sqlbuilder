@@ -1,0 +1,3 @@
+numpy
+sqlparse
+sqlalchemy==2.0.4
